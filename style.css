@@ -1,0 +1,19 @@
+body {
+    background-size: cover;
+  }
+  .header{
+  width: 100%;
+  font-size: 18px;
+  margin-top: 0px;
+  }
+  .footer{
+     bottom: 0;
+     position: fixed;
+     width: 100%;
+  }
+    canvas{
+        border: 2px solid white;
+        border-radius: 10px;
+        margin-top: 150px;
+        box-shadow: 5px 5px 5px whitesmoke;
+    }
